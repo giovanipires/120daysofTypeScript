@@ -12,4 +12,7 @@ Do Zero ao Profissional com TypeScript [Microsoft - https://youtu.be/u7K1sdnCv5Y
         - [x] E por que usar o TypeScript? E, próximos passos!
 
 - Módulo 2: Tipos básicos        
-    - [] - Dia 2;
+    - [x] - Dia 1;
+        - [x] Type Annotation
+        - [x] Boolean
+        - [] Number
