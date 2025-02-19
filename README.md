@@ -17,4 +17,5 @@ Do Zero ao Profissional com TypeScript [Microsoft - https://youtu.be/u7K1sdnCv5Y
         - [x] Boolean
         - [x] Number
     - [x] Dia 2;
-        - [x] String;
+        - [x] String
+        - [x] Array
