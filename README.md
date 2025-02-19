@@ -16,4 +16,5 @@ Do Zero ao Profissional com TypeScript [Microsoft - https://youtu.be/u7K1sdnCv5Y
         - [x] Type Annotation
         - [x] Boolean
         - [x] Number
-    - [] Dia 2;
+    - [x] Dia 2;
+        - [x] String;
