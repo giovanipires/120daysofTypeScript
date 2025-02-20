@@ -21,3 +21,4 @@ Do Zero ao Profissional com TypeScript [Microsoft - https://youtu.be/u7K1sdnCv5Y
         - [x] Array
     - [x] Dia 3;
         - [x] Tuplas
+        - [x] Enum
