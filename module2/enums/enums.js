@@ -27,3 +27,4 @@ console.log(comida(2 /* Comida.Pizza */));
 console.log(comida(4 /* Comida.Churrasco */));
 // console.log(comida(5));
 // Exemplo 4 - Quando usar Enum?
+// Intimamente relacionados
