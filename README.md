@@ -28,3 +28,4 @@ Do Zero ao Profissional com TypeScript [Microsoft - https://youtu.be/u7K1sdnCv5Y
     - [x] Unknown
   - [x] Dia 5;
     - [x] Void
+    - [x] Null & Undefined
