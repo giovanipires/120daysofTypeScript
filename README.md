@@ -29,3 +29,5 @@ Do Zero ao Profissional com TypeScript [Microsoft - https://youtu.be/u7K1sdnCv5Y
   - [x] Dia 5;
     - [x] Void
     - [x] Null & Undefined
+  - [x] Dai 6;
+    - [x] Never
