@@ -13,6 +13,7 @@ Do Zero ao Profissional com TypeScript [Microsoft - https://youtu.be/u7K1sdnCv5Y
       - [x] E por que usar o TypeScript? E, próximos passos!
 
 - Módulo 2: Tipos básicos
+
   - [x] - Dia 1;
       - [x] Type Annotation
       - [x] Boolean
@@ -31,3 +32,11 @@ Do Zero ao Profissional com TypeScript [Microsoft - https://youtu.be/u7K1sdnCv5Y
     - [x] Null & Undefined
   - [x] Dai 6;
     - [x] Never
+  - [x] Dia 07;
+    - [x] Object
+
+- Módulo 3: Fluxos de Controle
+  - [ ] Condicional if...else
+  - [ ] Condicional switch... case
+  - [ ] Condicional for
+  - [ ] Condicional while

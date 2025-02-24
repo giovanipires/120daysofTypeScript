@@ -1,7 +1,7 @@
 // Exemplo 1 - Uso simples de tuplas
-let pessoa: [string, string, number];
-pessoa = ['Giovani Pires', 'Product Owner & Desenvolvedor', 44];
-console.log(pessoa);
+let pessoa0: [string, string, number];
+pessoa0 = ['Giovani Pires', 'Product Owner & Desenvolvedor', 44];
+console.log(pessoa0);
 
 // Exemplo 2 - Acessando o valor da Tupla
 let pessoa1: [string, string, number];
