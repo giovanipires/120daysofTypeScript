@@ -36,7 +36,7 @@ Do Zero ao Profissional com TypeScript [Microsoft - https://youtu.be/u7K1sdnCv5Y
     - [x] Object
 
 - Módulo 3: Fluxos de Controle
-  - [ ] Condicional if...else
+  - [x] Condicional if...else
   - [ ] Condicional switch... case
   - [ ] Condicional for
   - [ ] Condicional while
