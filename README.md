@@ -49,7 +49,9 @@ Do Zero ao Profissional com TypeScript [Microsoft - https://youtu.be/u7K1sdnCv5Y
     - [x] 4.2 - Optional Parameters
   - [x] Dia 10;
   - [x] 4.3 - Default Parameters
-  - [] 4.4 - Rest Parameters
+- [x] Dia 11;
+  - [x] 4.4 - Rest Parameters
+- [] Dia 12;
   - [] 4.5 - Uso do ‘this’ e Arrow Functions
   - [] 4.6 - this Parameters
   - [] 4.7 - this Parameters em Callbacks
