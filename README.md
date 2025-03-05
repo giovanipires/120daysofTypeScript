@@ -51,8 +51,10 @@ Do Zero ao Profissional com TypeScript [Microsoft - https://youtu.be/u7K1sdnCv5Y
   - [x] 4.3 - Default Parameters
 - [x] Dia 11;
   - [x] 4.4 - Rest Parameters
-- [] Dia 12;
   - [] 4.5 - Uso do ‘this’ e Arrow Functions
   - [] 4.6 - this Parameters
   - [] 4.7 - this Parameters em Callbacks
   - [] 4.8 - Function Overloadings
+- [x] Dia 12;
+  - [x] 5.0 - Introdução à Classes
+  - [x] 5.1 - Demo: Classes
