@@ -13,8 +13,8 @@ class Pessoa {
     }
 }
 
-const pessoa = new Pessoa('Giovani', 'Pires');
-console.log(pessoa.nomeCompleto());
+const individuo = new Pessoa('Giovani', 'Pires');
+console.log(individuo.nomeCompleto());
 
 //Exemplo 02 - Classs (sem constructor)
 

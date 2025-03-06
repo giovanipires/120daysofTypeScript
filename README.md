@@ -58,3 +58,8 @@ Do Zero ao Profissional com TypeScript [Microsoft - https://youtu.be/u7K1sdnCv5Y
 - [x] Dia 12;
   - [x] 5.0 - Introdução à Classes
   - [x] 5.1 - Demo: Classes
+- [x] Dia 13;
+  - [x] 5.2 - Modificadores de acesso
+  - [x] 5.3 - Demo: Modificadores de acesso
+  - [x] 5.4 - Modificadores de acesso: readonly
+  - [x] 5.5 - Demo: Modificadores de acesso: readonly
