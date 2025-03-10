@@ -68,6 +68,7 @@ Do Zero ao Profissional com TypeScript [Microsoft - https://youtu.be/u7K1sdnCv5Y
   - [x] 5.7 - Demo: Getters & Setters
   - [x] 5.8 - Herança
   - [x] 5.9 - Demo: Herança
-- [...] Dia 15;
-  - [...] 6.0 - Membros estáticos
-  - [...] 6.0 - Demo: Membros estáticos
+- [x] Dia 15;
+  - [x] 6.0 - Membros estáticos
+  - [x] 6.1 - Demo: Membros estáticos
+- [...] Dia 16;
