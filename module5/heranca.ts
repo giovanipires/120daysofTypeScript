@@ -63,4 +63,4 @@ class Funcionario extends Pessoa {
 const funcionario = new Funcionario('Giovani', 'Pires', 'Desenvolvedor');
 console.log(funcionario.apresentarPessoa());
 console.log(funcionario.apresentarFuncionario());
-console.log(funcionario.retornarNomeCompleto());    
+console.log(funcionario.retornarNomeCompleto());

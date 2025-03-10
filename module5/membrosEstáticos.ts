@@ -61,16 +61,27 @@ console.log(Funcionario_01.getContratacoes()); // 2
 
 //Exemplo 3 - Métodos estáticos
 
-type Raca = 'Spitz Alemão' | 'Dachshund' | 'Pastor Alemão' | 'Buldogue Francês';
+type Raca = 'Spitz Alemão' | 'Dachshund' | 'Pastor Alemão' | 'Buldogue Francês' | 'Vira-lata';
 
 class Cachorro {
-    constructor(
-        private nome: string,
-        public idade: number,
-        private raca: Raca
-    ) {}
+        public nome: string;
+        public idade: number;
+        public racas: Raca[];
+        public static QTD_CACHORROS_VENDIDO = 0;
 
-    static latir(): void {
-        console.log('Au! Au!');
+    constructor(nome: string, idade: number, racas: Raca[]) {
+        this.nome = nome;
+        this.idade = idade;
+        this.racas = racas;
+
+        Cachorro.QTD_CACHORROS_VENDIDO++;
+        console.log(Cachorro.QTD_CACHORROS_VENDIDO);
+    }
+
+    public exibirInformacoes(): void {
+        console.log(` O cachorro ${this.nome} possui ${this.idade} anos, e sua raã é ${this.racas}`);
     }
 }
+
+const cachorro01 = new Cachorro('Preta', 1, ['Vira-lata']);
+const cachorro02 = new Cachorro('Arghus', 12, ['Buldogue Francês']);
