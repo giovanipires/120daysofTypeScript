@@ -73,4 +73,9 @@ Do Zero ao Profissional com TypeScript [Microsoft - https://youtu.be/u7K1sdnCv5Y
   - [x] 6.1 - Demo: Membros estáticos
   - [x] 6.2 - Classes abstratas
   - [x] 6.3 - Demo: Classes abstratas
-- [...] Dia 16;
+- [x] Dia 16;
+  - [x] 6.4 - Interfaces
+  - [x] 6.45 - Demo: Interfaces
+- [x] Dia 17;
+  - [x] - 6.6 - Extensão de Interfaces
+  - [x] - 6.7 - Demo: Extensão de Interfaces
