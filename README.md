@@ -79,3 +79,8 @@ Do Zero ao Profissional com TypeScript [Microsoft - https://youtu.be/u7K1sdnCv5Y
 - [x] Dia 17;
   - [x] - 6.6 - Extensão de Interfaces
   - [x] - 6.7 - Demo: Extensão de Interfaces
+- [x] Dia 18;
+  - [x] 6.8 - Intersections Types
+  - [x] 6.9 - Demo: Intersections Types
+  - [x] 7.0 - Type Guards
+  - [x] 7.1 - Demo: Type Guards
