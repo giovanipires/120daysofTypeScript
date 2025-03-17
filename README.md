@@ -84,3 +84,9 @@ Do Zero ao Profissional com TypeScript [Microsoft - https://youtu.be/u7K1sdnCv5Y
   - [x] 6.9 - Demo: Intersections Types
   - [x] 7.0 - Type Guards
   - [x] 7.1 - Demo: Type Guards
+- [x] Dia 19;
+  - [x] - Type Casting;
+  - [x] - Demo: Type Casting;
+- [x] Dia 20;
+  - [x] - Type Assertion;
+  - [x] - Demo: Type Assertion;

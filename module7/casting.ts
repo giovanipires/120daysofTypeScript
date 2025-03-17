@@ -5,5 +5,6 @@ const valor: unknown = "Hello World";
 console.log((valor as string).toUpperCase());
 //utilizando <>
 console.log((<string>valor).toUpperCase());
+//verificando o tamanho.
 const tamanhoValor = (valor as string).length;
 console.log(tamanhoValor);
