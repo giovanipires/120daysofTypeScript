@@ -96,3 +96,5 @@ Do Zero ao Profissional com TypeScript [Microsoft - https://youtu.be/u7K1sdnCv5Y
 - [x] Dia 22;
   - [x] - Mapped Types;
   - [x] - Demo: Mapped Types;
+  - [x] - Satisfies Operator;
+  - [x] - Demo: Satisfies Operator;
