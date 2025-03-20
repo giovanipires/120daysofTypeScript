@@ -32,7 +32,6 @@ console.log(humano1.nome.toLowerCase());
 */
 
 type Humano = {
-    nome: string;
     idade: number; 
     idioma: string;
 };

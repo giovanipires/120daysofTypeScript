@@ -90,3 +90,9 @@ Do Zero ao Profissional com TypeScript [Microsoft - https://youtu.be/u7K1sdnCv5Y
 - [x] Dia 20;
   - [x] - Type Assertion;
   - [x] - Demo: Type Assertion;
+- [x] Dia 21;
+  - [x] - Conditional Types;
+  - [x] - Demo: Conditional Types;
+- [x] Dia 22;
+  - [x] - Mapped Types;
+  - [x] - Demo: Mapped Types;
