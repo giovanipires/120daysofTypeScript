@@ -6,52 +6,38 @@ Toda a emenda do treinamento, foi baseada na **[Documentação oficial do TypeSc
 
 <details><summary><b>Módulo 1: Introdução à TypeScript</b></summary>
 <b>Dia 01</b><br>
-- 1.1 - O que é TypeScript?
-- 1.2 - Conhecendo o Playground do TypeScript
-- 1.3 - Preparando o Ambiente de Desenvolvimento para o TypeScript
-- 1.4 - Entendendo um pouco mais o arquivo tsconfig.json
-- 1.5 - Demo: Primeiro Programa em TypeScript – Hello World
+- 1.1 - O que é TypeScript?<br>
+- 1.2 - Conhecendo o Playground do TypeScript<br>
+- 1.3 - Preparando o Ambiente de Desenvolvimento para o TypeScript<br>
+- 1.4 - Entendendo um pouco mais o arquivo tsconfig.json<br>
+- 1.5 - Demo: Primeiro Programa em TypeScript – Hello World<br>
 - 1.6 - E por que usar o TypeScript? E, próximos passos!
 </details>
 
 <details><summary><b>Módulo 2: Tipos Básicos</b></summary>
 
-<b>Dia 01</b>
+<b>Dia 01</b><br>
 
-- 2.1 - Type Annotation
-  - Demo 2.1
-- 2.2 - Boolean
-  - Demo 2.2
-- 2.3 - Number & Bigint
-  - Demo 2.3
-    <b>Dia 02</b>
-- 2.4 - String
-  - Demo 2.4
-- 2.5 - Array
-  - Demo 2.5
-    <b>Dia 03</b>
-- 2.6 - Tuple
-  - Demo 2.6
-- 2.7 - Enum
-  - Demo 2.7
-    <b>Dia 04</b>
-- 2.8 - Unknown
-  - Demo 2.8
-- 2.9 - Any
-  - Demo 2.9
-    <b>Dia 05</b>
-- 2.10 - Void
-  - Demo 2.10
-- 2.11 - Null and Undefined
-  - Demo 2.11
-    <b>Dia 06</b>
-- 2.12 - Never
-  - Demo 2.12
-    <b>Dia 07</b>
-- 2.13 - Object
-
-  - Demo 2.13
-  </details>
+- 2.1 - Type Annotation<br>
+- 2.2 - Boolean<br>
+- 2.3 - Number & Bigint<br>
+  <b>Dia 02</b><br>
+- 2.4 - String<br>
+- 2.5 - Array<br>
+  <b>Dia 03</b><br>
+- 2.6 - Tuple<br>
+- 2.7 - Enum<br>
+  <b>Dia 04</b><br>
+- 2.8 - Unknown<br>
+- 2.9 - Any<br>
+  <b>Dia 05</b><br>
+- 2.10 - Void<br>
+- 2.11 - Null and Undefined<br>
+  <b>Dia 06</b><br>
+- 2.12 - Never<br>
+  <b>Dia 07</b><br>
+- 2.13 - Object<br>
+</details>
 
 - Módulo 3: Fluxos de Controle
 
