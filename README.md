@@ -71,19 +71,26 @@ Toda a emenda do treinamento, foi baseada na **[Documentação oficial do TypeSc
 - 4.8 - Function Overloadings<br>
 </details>
 
-- [x] Dia 12;
-  - [x] 5.0 - Introdução à Classes
-  - [x] 5.1 - Demo: Classes
-- [x] Dia 13;
-  - [x] 5.2 - Modificadores de acesso
-  - [x] 5.3 - Demo: Modificadores de acesso
-  - [x] 5.4 - Modificadores de acesso: readonly
-  - [x] 5.5 - Demo: Modificadores de acesso: readonly
-- [x] Dia 14;
-  - [x] 5.6 - Getters & Setters
-  - [x] 5.7 - Demo: Getters & Setters
-  - [x] 5.8 - Herança
-  - [x] 5.9 - Demo: Herança
+<details><summary><b>Módulo 5: Classes </b></summary><br>
+<b><p>Dia 12</p></b>
+- 5.0 - Introdução à Classes<br>
+- 5.1 - Demo: Classes<br>
+
+<b><p>Dia 13</p></b>
+
+- 5.2 - Modificadores de acesso<br>
+- 5.3 - Demo: Modificadores de acesso<br>
+- 5.4 - Modificadores de acesso: readonly<br>
+- 5.5 - Demo: Modificadores de acesso: readonly<br>
+
+<b><p>Dia 14</p></b>
+
+- 5.6 - Getters & Setters<br>
+- 5.7 - Demo: Getters & Setters<br>
+- 5.8 - Herança<br>
+- 5.9 - Demo: Herança<br>
+</details>
+
 - [x] Dia 15;
   - [x] 6.0 - Membros estáticos
   - [x] 6.1 - Demo: Membros estáticos
