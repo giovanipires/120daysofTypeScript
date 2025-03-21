@@ -15,19 +15,23 @@ Toda a emenda do treinamento, foi baseada na **[Documentação oficial do TypeSc
 </details>
 
 <details><summary><b>Módulo 2: Tipos Básicos</b></summary><br>
-<b><p>Dia 01</p></b><br>
+<b><p>Dia 01</p></b>
 - 2.1 - Type Annotation<br>
 - 2.2 - Boolean<br>
 - 2.3 - Number & Bigint<br>
 
-<b><p>Dia 02</p></b><br>
+<b><p>Dia 02</p></b>
 
 - 2.4 - String<br>
 - 2.5 - Array<br>
-  <b>Dia 03</b><br>
+
+<b><p>Dia 03</p></b>
+
 - 2.6 - Tuple<br>
 - 2.7 - Enum<br>
-  <b>Dia 04</b><br>
+
+<b><p>Dia 04</p></b>
+
 - 2.8 - Unknown<br>
 - 2.9 - Any<br>
   <b>Dia 05</b><br>
