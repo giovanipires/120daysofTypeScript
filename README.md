@@ -89,38 +89,44 @@ Toda a emenda do treinamento, foi baseada na **[Documentação oficial do TypeSc
 - 5.7 - Demo: Getters & Setters<br>
 - 5.8 - Herança<br>
 - 5.9 - Demo: Herança<br>
+
+<b><p>Dia 15</p></b>
+
+- 6.0 - Membros estáticos<br>
+- 6.2 - Classes abstratas<br>
 </details>
 
-- [x] Dia 15;
-  - [x] 6.0 - Membros estáticos
-  - [x] 6.1 - Demo: Membros estáticos
-  - [x] 6.2 - Classes abstratas
-  - [x] 6.3 - Demo: Classes abstratas
-- [x] Dia 16;
-  - [x] 6.4 - Interfaces
-  - [x] 6.45 - Demo: Interfaces
-- [x] Dia 17;
-  - [x] - 6.6 - Extensão de Interfaces
-  - [x] - 6.7 - Demo: Extensão de Interfaces
-- [x] Dia 18;
-  - [x] 6.8 - Intersections Types
-  - [x] 6.9 - Demo: Intersections Types
-  - [x] 7.0 - Type Guards
-  - [x] 7.1 - Demo: Type Guards
-- [x] Dia 19;
-  - [x] - Type Casting;
-  - [x] - Demo: Type Casting;
-- [x] Dia 20;
-  - [x] - Type Assertion;
-  - [x] - Demo: Type Assertion;
-- [x] Dia 21;
-  - [x] - Conditional Types;
-  - [x] - Demo: Conditional Types;
-- [x] Dia 22;
-  - [x] - Mapped Types;
-  - [x] - Demo: Mapped Types;
-  - [x] - Satisfies Operator;
-  - [x] - Demo: Satisfies Operator;
-- [x] Dia 23;
-  - [x] - Generics
-  - [x] - Demo: Generics
+<details><summary><b>Módulo 6: Interfaces</b></summary><br>
+<b><p>Dia 16</p></b>
+- 6.4 - Interfaces<br>
+<b><p>Dia 17</p><b>
+- 6.6 - Extensão de Interfaces<br>
+</details>
+
+<details><summary><b>Módulo 7: Tipos avançados & Novos operadores</b></summary><br>
+<b><p>Dia 18</p></b>
+- 6.8 - Intersections Types<br>
+- 7.0 - Type Guards<br>
+
+<b><p>Dia 19</p></b>
+
+- 7.4 - Type Casting<br>
+
+<b><p>Dia 20</p></b>
+
+- 7.5 - Type Assertion<br>
+
+<b><p>Dia 21</p></b>
+
+- 7.6 - Conditional Types<br>
+
+<b><p>Dia 22</p></b>
+
+- 7.7 - Mapped Types<br>
+- 7.8 - Satisfies Operator<br>
+</details>
+
+<details><summary><b>Módulo 8: Generics</b></summary><br>
+<b><p>Dia 23</p></b>
+- 8.1 - Generics<br>
+</details>
