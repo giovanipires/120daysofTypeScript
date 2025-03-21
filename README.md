@@ -7,31 +7,54 @@ Toda a emenda do treinamento, foi baseada na **[Documentação oficial do TypeSc
 <details>
   <summary><b>- Módulo 1: Introdução</b></summart>
 
-- [x] - Dia 1; - [x] 1.1 - O que é TypeScript? - [x] 1.2 - Conhecendo o Playground do TypeScript - [x] 1.3 - Preparando o Ambiente de Desenvolvimento para o TypeScript - [x] 1.4 - Entendendo um pouco mais o arquivo tsconfig.json - [x] 1.5 - Demo: Primeiro Programa em TypeScript – Hello World - [x] 1.6 - E por que usar o TypeScript? E, próximos passos!
+<details><summary><b>Módulo 1: Introdução à TypeScript</b></summary>
+<b>Dia 01</b>
+- 1.1 - O que é TypeScript?
+- 1.2 - Conhecendo o Playground do TypeScript
+- 1.3 - Preparando o Ambiente de Desenvolvimento para o TypeScript
+- 1.4 - Entendendo um pouco mais o arquivo tsconfig.json
+- 1.5 - Demo: Primeiro Programa em TypeScript – Hello World
+- 1.6 - E por que usar o TypeScript? E, próximos passos!
+</details>
+
+<details><summary><b>Módulo 2: Tipos Básicos</b></summary>
+
+<b>Dia 01</b>
+
+- 2.1 - Type Annotation
+  - Demo 2.1
+- 2.2 - Boolean
+  - Demo 2.2
+- 2.3 - Number & Bigint
+  - Demo 2.3
+    <b>Dia 02</b>
+- 2.4 - String
+  - Demo 2.4
+- 2.5 - Array
+  - Demo 2.5
+    <b>Dia 03</b>
+- 2.6 - Tuple
+  - Demo 2.6
+- 2.7 - Enum
+  - Demo 2.7
+    <b>Dia 04</b>
+- 2.8 - Unknown
+  - Demo 2.8
+- 2.9 - Any
+  - Demo 2.9
+    <b>Dia 05</b>
+- 2.10 - Void
+  - Demo 2.10
+- 2.11 - Null and Undefined
+  - Demo 2.11
+    <b>Dia 06</b>
+- 2.12 - Never
+  - Demo 2.12
+    <b>Dia 07</b>
+- 2.13 - Object
+
+  - Demo 2.13
   </details>
-
-- Módulo 2: Tipos básicos
-
-  - [x] - Dia 1;
-      - [x] 2.1 - Type Annotation
-      - [x] 2.2 Boolean
-      - [x] 2.3 - Number
-  - [x] Dia 2;
-    - [x] 2.4 - String
-    - [x] 2.5 - Array
-  - [x] Dia 3;
-    - [x] 2.6 - Tuplas
-    - [x] 2.7 - Enum
-  - [x] Dia 4;
-    - [x] 2.8 - Any
-    - [x] 2.9 - Unknown
-  - [x] Dia 5;
-    - [x] 2.10 - Void
-    - [x] 2.11 - Null & Undefined
-  - [x] Dai 6;
-    - [x] 2.12 - Never
-  - [x] Dia 07;
-    - [x] 2.13 - Object
 
 - Módulo 3: Fluxos de Controle
 
