@@ -49,26 +49,28 @@ Toda a emenda do treinamento, foi baseada na **[Documentação oficial do TypeSc
 - 2.13 - Object<br>
 </details>
 
-- Módulo 3: Fluxos de Controle
+<details><summary><b>Módulo 3: Fluxos de Controle</b></summary><br>
+- 3.1 - Condicional if...else<br>
+<b><p>Dia 08</p></b>
+- 3.2 - Condicional switch... case<br>
+- 3.3 - Condicional for<br>
+- 3.4 - Condicional while<br>
+</details>
 
-  - [x] Condicional if...else
-  - [x] Dia 08;
-    - [x] 3.1 - Condicional switch... case
-    - [x] 3.2 - Condicional for
-    - [x] 3.3 - Condicional while
+<details><summary><b>Módulo 4: Funções/Functions</b></summary><br>
+<b><p>Dia 09</p></b>
+- 4.1 - Introdução à Funções/Functions<br>
+- 4.2 - Optional Parameters<br>
+<b><p>Dia 10</p></b>
+- 4.3 - Default Parameters<br>
+<b><p>Dia 11</p></b>
+- 4.4 - Rest Parameters<br>
+- 4.5 - Uso do ‘this’ e Arrow Functions<br>
+- 4.6 - this Parameters<br>
+- 4.7 - this Parameters em Callbacks<br>
+- 4.8 - Function Overloadings<br>
+</details>
 
-- Módulo 4: Funções/Functions
-  - [x] Dia 09;
-    - [x] 4.1 - Introdução à Funções/Functions
-    - [x] 4.2 - Optional Parameters
-  - [x] Dia 10;
-  - [x] 4.3 - Default Parameters
-- [x] Dia 11;
-  - [x] 4.4 - Rest Parameters
-  - [] 4.5 - Uso do ‘this’ e Arrow Functions
-  - [] 4.6 - this Parameters
-  - [] 4.7 - this Parameters em Callbacks
-  - [] 4.8 - Function Overloadings
 - [x] Dia 12;
   - [x] 5.0 - Introdução à Classes
   - [x] 5.1 - Demo: Classes
