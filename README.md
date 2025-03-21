@@ -4,11 +4,8 @@ Do Zero ao Profissional com TypeScript [Microsoft - https://youtu.be/u7K1sdnCv5Y
 
 Toda a emenda do treinamento, foi baseada na **[Documentação oficial do TypeScript](https://www.typescriptlang.org/docs/handbook/intro.html)**!
 
-<details>
-  <summary><b>- Módulo 1: Introdução</b></summart>
-
 <details><summary><b>Módulo 1: Introdução à TypeScript</b></summary>
-<b>Dia 01</b>
+<b>Dia 01</b><br>
 - 1.1 - O que é TypeScript?
 - 1.2 - Conhecendo o Playground do TypeScript
 - 1.3 - Preparando o Ambiente de Desenvolvimento para o TypeScript
