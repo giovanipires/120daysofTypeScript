@@ -34,12 +34,18 @@ Toda a emenda do treinamento, foi baseada na **[Documentação oficial do TypeSc
 
 - 2.8 - Unknown<br>
 - 2.9 - Any<br>
-  <b>Dia 05</b><br>
+
+<b><p>Dia 05</p></b>
+
 - 2.10 - Void<br>
 - 2.11 - Null and Undefined<br>
-  <b>Dia 06</b><br>
+
+<b><p>Dia 06</p></b>
+
 - 2.12 - Never<br>
-  <b>Dia 07</b><br>
+
+<b><p>Dia 07</p></b>
+
 - 2.13 - Object<br>
 </details>
 
