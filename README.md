@@ -2,15 +2,13 @@
 
 Do Zero ao Profissional com TypeScript [Microsoft - https://youtu.be/u7K1sdnCv5Y?si=wR8EE6g8SDhD3QHq]
 
-- Módulo 1: Introdução
+Toda a emenda do treinamento, foi baseada na **[Documentação oficial do TypeScript](https://www.typescriptlang.org/docs/handbook/intro.html)**!
 
-  - [x] - Dia 1;
-      - [x] 1.1 - O que é TypeScript?
-      - [x] 1.2 - Conhecendo o Playground do TypeScript
-      - [x] 1.3 - Preparando o Ambiente de Desenvolvimento para o TypeScript
-      - [x] 1.4 - Entendendo um pouco mais o arquivo tsconfig.json
-      - [x] 1.5 - Demo: Primeiro Programa em TypeScript – Hello World
-      - [x] 1.6 - E por que usar o TypeScript? E, próximos passos!
+<details>
+  <summary><b>- Módulo 1: Introdução</b></summart>
+
+- [x] - Dia 1; - [x] 1.1 - O que é TypeScript? - [x] 1.2 - Conhecendo o Playground do TypeScript - [x] 1.3 - Preparando o Ambiente de Desenvolvimento para o TypeScript - [x] 1.4 - Entendendo um pouco mais o arquivo tsconfig.json - [x] 1.5 - Demo: Primeiro Programa em TypeScript – Hello World - [x] 1.6 - E por que usar o TypeScript? E, próximos passos!
+  </details>
 
 - Módulo 2: Tipos básicos
 
@@ -98,3 +96,6 @@ Do Zero ao Profissional com TypeScript [Microsoft - https://youtu.be/u7K1sdnCv5Y
   - [x] - Demo: Mapped Types;
   - [x] - Satisfies Operator;
   - [x] - Demo: Satisfies Operator;
+- [x] Dia 23;
+  - [x] - Generics
+  - [x] - Demo: Generics
