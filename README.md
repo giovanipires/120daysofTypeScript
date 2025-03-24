@@ -131,7 +131,7 @@ Treinamento feito pela comunidade para a comunidade e ministrado pela - **[Glauc
 <details><summary><b>Módulo 8: Generics</b></summary><br>
 <b><p>Dia 23</p></b>
 - 8.1 e 8.2 - Generics<br>
-<b><p>Dia 23</p></b>
+<br><b><p>Dia 24</p></b>
 -8.3 - Generics Types<br>
 -8.4 - Generics Classes<br>
 -8.5 - Generics Constraints<br>
