@@ -1,8 +1,10 @@
-# 120 dias de codificação com TypeScript
+# TypeScript, do Zero ao Profissional
 
 Do Zero ao Profissional com TypeScript [Microsoft - https://youtu.be/u7K1sdnCv5Y?si=wR8EE6g8SDhD3QHq]
 
 Toda a emenda do treinamento, foi baseada na **[Documentação oficial do TypeScript](https://www.typescriptlang.org/docs/handbook/intro.html)**!
+
+Treinamento feito pela comunidade para a comunidade e ministrado pela - **[Glaucia Lemos](https://twitter.com/glaucia_lemos86)**
 
 <details><summary><b>Módulo 1: Introdução à TypeScript</b></summary><br>
 <b><p>Dia 01</p></b><br>
@@ -129,4 +131,19 @@ Toda a emenda do treinamento, foi baseada na **[Documentação oficial do TypeSc
 <details><summary><b>Módulo 8: Generics</b></summary><br>
 <b><p>Dia 23</p></b>
 - 8.1 - Generics<br>
+<b><p>Dia 23</p></b>
+-8.2 - Generics Types<br>
 </details>
+
+## Para acompanhar siga a 💻 Série de Vídeos
+
+Os vídeos serão lançados semanalmente, de acordo com a demanda através do meu **[Canal do Youtube](https://bit.ly/youtube-canal-glaucialemos)**.
+
+## ❗️ Links & Recursos Importantes
+
+- ✅ **[Documentação Oficial do TypeScript](http://typescriptlang.org/docs/handbook/)**
+- ✅ **[TypeScript no Visual Studio Code](https://code.visualstudio.com/docs/languages/typescript?WT.mc_id=javascript-14034-gllemos)**
+- ✅ **[Compilando Códigos TypeScript no Vs Code](https://code.visualstudio.com/docs/typescript/typescript-compiling?WT.mc_id=javascript-14034-gllemos)**
+- ✅ **[Tutorial TypeScript no Vs Code](https://code.visualstudio.com/docs/typescript/typescript-tutorial?WT.mc_id=javascript-14034-gllemos)**
+- ✅ **[Azure Functions com TypeScript](https://docs.microsoft.com/azure/azure-functions/create-first-function-vs-code-typescript?WT.mc_id=javascript-14034-gllemos)**
+- ✅ **[Curso Grátis de Node.js](https://docs.microsoft.com/learn/paths/build-javascript-applications-nodejs/?WT.mc_id=javascript-14034-gllemos)**
