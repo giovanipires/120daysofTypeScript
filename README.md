@@ -138,6 +138,15 @@ Treinamento feito pela comunidade para a comunidade e ministrado pela - **[Glauc
 -8.6 - Generics Interfaces<br>
 </details>
 
+<details><summary><b>Módulo 9: Modules</b></summary><br>
+<b><p>Dia 25</p></b>
+- 9.1 - Modules:<br>
+- 9.2 - Funções<br>
+- 9.3 - Default Exports<br>
+- 9.4 - Class Modules<br>
+- 9.5 - Usando Aliases Class Modules em TypeScript
+</details>
+
 ## Para acompanhar siga a 💻 Série de Vídeos
 
 Os vídeos serão lançados semanalmente, de acordo com a demanda através do meu **[Canal do Youtube](https://bit.ly/youtube-canal-glaucialemos)**.
