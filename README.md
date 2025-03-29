@@ -152,6 +152,11 @@ Treinamento feito pela comunidade para a comunidade e ministrado pela - **[Glauc
 - 10 - Como podemos usar o Node.js com TypeScript + Express.Js<br>
 </details>
 
+<details><summary><b>Módulo Extra</b></summary><br>
+<b><p>Dia 26</p></b>
+- Melhor entendimento de Listas em Tuplas<br>
+</details>
+
 ## Para acompanhar siga a 💻 Série de Vídeos
 
 Os vídeos serão lançados semanalmente, de acordo com a demanda através do meu **[Canal do Youtube](https://bit.ly/youtube-canal-glaucialemos)**.
